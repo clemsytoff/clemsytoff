@@ -31,7 +31,7 @@ MySQL
 React · Next.js · Html · CSC · Vite
 
 ⚡ **Outils**  
-Docker · Git/GitHub · Linux · CI/CD · Captain
+Docker · Git/GitHub · Linux · CI/CD · CapRover
 
 ---
 
