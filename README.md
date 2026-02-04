@@ -34,16 +34,12 @@ React · Next.js · Html · CSC · Vite
 Docker · Git/GitHub · Linux · CI/CD · CapRover
 
 ---
-
 ## 📊 GitHub en bref
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clemsytoff&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemsytoff&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clemsytoff&show_icons=true&theme=tokyonight" alt="Stats de clemsytoff" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemsytoff&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
-
----
 
 🚀 *Full-stack par compétence. Backend par conviction.*
