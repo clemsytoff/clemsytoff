@@ -39,5 +39,9 @@ Docker · Git/GitHub · Linux · CI/CD · CapRover
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clemsytoff&theme=tokyonight" alt="Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=clemsytoff&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 
 🚀 *Full-stack par compétence. Backend par conviction.*
