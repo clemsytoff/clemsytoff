@@ -37,7 +37,7 @@ Docker · Git/GitHub · Linux · CI/CD · CapRover
 ## 📊 GitHub en bref
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=clemsytoff&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=clemsytoff&theme=hacker)" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clemsytoff&theme=hacker" alt="Streak Stats" />
 </p>
 
 🚀 *Full-stack par compétence. Backend par conviction.*
