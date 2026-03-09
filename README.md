@@ -28,7 +28,7 @@ Node.js · PHP · APIs REST · Architecture modulaire
 MySQL
 
 🎨 **Frontend**  
-React · Next.js · Html · CSC · Vite
+React · Next.js · Html · CSS · Vite
 
 ⚡ **Outils**  
 Docker · Git/GitHub · Linux · CI/CD · CapRover
